@@ -125,3 +125,4 @@ const {
 } = await sdk.nft.buy(collection, orderId, owner)
 ```
 
+TODO: write api examples
